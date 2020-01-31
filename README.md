@@ -1,1 +1,1 @@
-# Air-Quality-Index-Prediction-Deployment
+# AQI-Deployment
